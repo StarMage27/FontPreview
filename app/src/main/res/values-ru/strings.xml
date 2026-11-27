@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Просмотр шрифтов</string>
+    <string name="load_font">Загрузить файл шрифта</string>
+    <string name="font_preview">Предпросмотр шрифтов</string>
+    <string name="info">Инфо</string>
+    <string name="information">Информация</string>
+    <string name="close">Закрыть</string>
+    <string name="font_family">Семейство шрифта</string>
+    <string name="font_subfamily">Подсемейство шрифта</string>
+    <string name="description">Описание</string>
+    <string name="version">Версия</string>
+    <string name="trademark">Торговая марка</string>
+    <string name="manufacturer">Производитель</string>
+    <string name="designer">Дизайнер</string>
+    <string name="vendor_url">URL поставщика</string>
+    <string name="designer_url">URL дизайнера</string>
+    <string name="license_description">Описание лицензии</string>
+    <string name="license_info_url">URL информации о лицензии</string>
+    <string name="copyright">Авторское право</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Font Preview</string>
+    <string name="load_font">Load font file</string>
+    <string name="font_preview">Font Preview</string>
+    <string name="info">Info</string>
+    <string name="information">Information</string>
+    <string name="close">Close</string>
+    <string name="font_family">Font family</string>
+    <string name="font_subfamily">Font subfamily</string>
+    <string name="description">Description</string>
+    <string name="version">Version</string>
+    <string name="trademark">Trademark</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="designer">Designer</string>
+    <string name="vendor_url">Vendor URL</string>
+    <string name="designer_url">Designer URL</string>
+    <string name="license_description">License description</string>
+    <string name="license_info_url">License info URL</string>
+    <string name="copyright">Copyright</string>
+</resources>
